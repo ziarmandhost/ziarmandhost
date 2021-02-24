@@ -12,7 +12,7 @@ Hello world! My name is David. PRO in ReactJS and NodeJS. Studied at the Kharkiv
 + Linux (Ubuntu) knowledge.
 + Gamedev: A little bit of Unreal Engine 4, graphics engine PIXI.JS and physics engine p2.js.
 + Deploying: AWS (such services as: EC2, DynamoDB), Google Cloud, Heroku, Vagrant.
-+ 
+
 ##### Certificates
 I have various [certificates](https://davidziarmand.herokuapp.com/#certificates-section) that can prove some of my skills, you can see it [here](https://davidziarmand.herokuapp.com/#certificates-section).
 
