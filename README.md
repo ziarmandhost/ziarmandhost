@@ -1,5 +1,5 @@
 # ⭐I'm a 17 year old Junior full stack web developer⭐
-<img src="https://davidziarmand.herokuapp.com/projects/portfolio/logo_thumb.png" align="right" width="400" />
+<img src="https://avatars.githubusercontent.com/u/30569343?s=460&u=fdc2b1bad831c2f21c0688a1e3d89bf106940a83&v=4" align="right" width="400" />
 
 Hello world! My name is David. PRO in ReactJS and NodeJS. Studied at the Kharkiv gymnasium 46 named after M.V. Lomonosov from 2009 to 2020, Mathematical profile. Now I am a 1st year student at the Kharkiv National University of Radio Electronics. I'm native speaker of Ukrainian and Russian. I'm Upper-Intermediate in English and Pre-Intermediate in French. 
 
