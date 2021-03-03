@@ -7,7 +7,7 @@ Hello world! My name is David. PRO in ReactJS and NodeJS. Studied at the Kharkiv
 + Backend: NodeJS, ExpressJS, socket.io, PHP.
 + Databases: MySQL, PostgreSQL, MongoDB, Amazon DynamoDB *also any SQL/NoSQL databases*.
 + Mobile development: Java, React Native.
-+ Desktop development: C++ QT Creator, Electron.JS, Python.
++ Desktop development: C++ console applications with CMake, C++ QT Creator, Electron.JS, Python.
 + Linux (Ubuntu) knowledge.
 + Gamedev: A little bit of Unreal Engine 4, graphics engine PIXI.JS and physics engine p2.js.
 + Deploying: AWS (such services as: EC2, DynamoDB), Google Cloud, Heroku, Vagrant.
