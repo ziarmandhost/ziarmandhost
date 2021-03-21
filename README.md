@@ -1,4 +1,4 @@
-# ⭐I'm a 17 year old Full stack web developer⭐
+# ⭐I'm a 18 year old Full stack web developer⭐
 
 Hello world! My name is David. PRO in ReactJS and NodeJS. Studied at the Kharkiv gymnasium 46 named after M.V. Lomonosov from 2009 to 2020, Mathematical profile. Now I am a 1st year student in the specialization "Computer Engineering" at Kharkiv National University of Radio Electronics. I'm native speaker of Ukrainian and Russian. I'm Upper-Intermediate in English and Pre-Intermediate in French. 
 
