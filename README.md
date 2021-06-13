@@ -19,7 +19,7 @@ I have various [certificates](https://davidziarmand.com.ua/#certificates-section
 I have done many [projects](https://davidziarmand.com.ua/#projects-section), some of them you can see [here](https://davidziarmand.com.ua/#projects-section).
 
 ### My work experience
-[My work history.](https://davidziarmand.com.ua/#experience-section), some of them you can see [here](https://davidziarmand.com.ua/#projects-section).
+[My work history](https://davidziarmand.com.ua/#experience-section).
 
 ### Contact Me:
 Email: [dziarmand@gmail.com](mailto:dziarmand@gmail.com) <br />
