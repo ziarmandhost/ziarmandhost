@@ -13,14 +13,17 @@ Hello world! My name is David. PRO in ReactJS and NodeJS. Studied at the Kharkiv
 + Deploying: AWS (such services as: EC2, DynamoDB), Google Cloud, Heroku, Vagrant.
 
 ### Certificates
-I have various [certificates](https://davidziarmand.herokuapp.com/#certificates-section) that can prove some of my skills, you can see it [here](https://davidziarmand.herokuapp.com/#certificates-section).
+I have various [certificates](https://davidziarmand.com.ua/#certificates-section) that can prove some of my skills, you can see it [here](https://davidziarmand.com.ua/#certificates-section).
 
 ### Projects
-I have done many [projects](https://davidziarmand.herokuapp.com/#projects-section), some of them you can see [here](https://davidziarmand.herokuapp.com/#projects-section).
+I have done many [projects](https://davidziarmand.com.ua/#projects-section), some of them you can see [here](https://davidziarmand.com.ua/#projects-section).
+
+### My work experience
+[My work history.](https://davidziarmand.com.ua/#experience-section), some of them you can see [here](https://davidziarmand.com.ua/#projects-section).
 
 ### Contact Me:
 Email: [dziarmand@gmail.com](mailto:dziarmand@gmail.com) <br />
 LinkedIn: [david-ziarmand](https://www.linkedin.com/in/david-ziarmand) <br />
 Facebook: [David Ziarmand](https://www.facebook.com/DavidZiarmand) <br />
 Instagram: [david_ziarmand](https://www.instagram.com/david_ziarmand) <br />
-*Write me using my Portfolio site*: [davidziarmand.herokuapp.com](https://davidziarmand.herokuapp.com/#contact-section) <br />
+*Write me using my Portfolio site*: [https://davidziarmand.com.ua/](https://davidziarmand.herokuapp.com/#contact-section) <br />
