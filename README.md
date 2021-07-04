@@ -5,7 +5,7 @@ Hello world! My name is David. PRO in ReactJS and NodeJS. Studied at the Kharkiv
 ### I know such technologies as :
 + Frontend: ReactJS, HTML5, CSS3, Javascript (any language standart).
 + Backend: NodeJS, ExpressJS, socket.io, PHP.
-+ Databases: MySQL, PostgreSQL, MongoDB, Amazon DynamoDB *also any SQL/NoSQL databases*.
++ Databases: MySQL, PostgreSQL, MongoDB, Amazon DynamoDB and RDS *also any SQL/NoSQL databases*.
 + Mobile development: Java, React Native.
 + Desktop development: C++ console applications with CMake, C++ QT Creator, Electron.JS, Python.
 + Linux (Ubuntu) knowledge.
