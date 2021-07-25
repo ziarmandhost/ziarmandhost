@@ -26,4 +26,4 @@ Email: [dziarmand@gmail.com](mailto:dziarmand@gmail.com) <br />
 LinkedIn: [david-ziarmand](https://www.linkedin.com/in/david-ziarmand) <br />
 Facebook: [David Ziarmand](https://www.facebook.com/DavidZiarmand) <br />
 Instagram: [david_ziarmand](https://www.instagram.com/david_ziarmand) <br />
-*Write me using my Portfolio site*: [https://davidziarmand.com.ua/](https://davidziarmand.herokuapp.com/#contact-section) <br />
+*Write me using my Portfolio site*: [https://davidziarmand.com.ua/](https://davidziarmand.com.ua/#contact-section) <br />
