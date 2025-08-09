@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/imgs/linkedIn_baner.jpg" alt="Easy Dev Banner" width="100%"/>
-</p>
+![Easy Dev Banner](/imgs/linkedIn_baner.jpg)
 
 <h1 align="center">Hi 👋, I'm David Ziarmand</h1>
 <h3 align="center">CEO at Easy Dev | Senior Software Developer (7+ years)</h3>
