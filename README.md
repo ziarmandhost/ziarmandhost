@@ -1,4 +1,4 @@
-![Easy Dev Banner](/imgs/linkedIn_baner_easy_dev.jpg)
+![Easy Dev Banner](/imgs/LinkedIn%20Baner.png)
 
 <h1 align="center">Hi 👋, I'm David Ziarmand</h1>
 <h3 align="center">CEO at Easy Dev | Senior Software Developer (7+ years)</h3>
