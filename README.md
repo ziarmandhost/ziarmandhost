@@ -1,154 +1,31 @@
 ![Easy Dev Banner](/imgs/LinkedIn%20Baner.png)
 
 <h1 align="center">Hi 👋, I'm David Ziarmand</h1>
-<h3 align="center">CEO at Easy Dev | Senior Software Developer (7+ years)</h3>
+<h3 align="center">Strong Middle Full-Stack Developer | React | TypeScript | GenAI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziarmandhost&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" />
-  <a href="https://www.linkedin.com/company/easy-dev-company/" target="_blank">
+  <a href="https://www.linkedin.com/in/david-ziarmand" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/easy_dev_company/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:cooperation@easy-dev.company">
+  <a href="mailto:dziarmand@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://easy-dev.company" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
 </p>
 
 ---
 
-## 🌍 About Easy Dev
+## 🌍 About me / Summary
 
-<img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" width="14"/> Based in Poland<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="14"/> Founded by a Ukrainian entrepreneur<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" width="14"/> Serving clients across the European Union  
+Strong Middle Full-Stack Developer with 7 years of experience in Web and Mobile development. I have delivered software across multiple business domains, including: e-commerce platforms, network infrastructure and data tools, travel booking systems, AI-driven legal document analysis solutions, and software for banking and financial institutions.
 
-We build **web, mobile, AI, and design solutions** for startups, brands, and enterprises.
+I have worked both independently and within cross-functional teams from mid-sized Scrum teams of 5-7 people to large organizations structured into multiple product squads of 50+ engineers. 
 
-## 💼 Services
+I also held a Lead role, where I was responsible for decomposing large user stories into actionable tasks, coordinating the work of 2 developers, 1 QA, and a UI/UX designer, participating in daily delivery processes, reporting to project leadership, and presenting completed features to clients during demos.
 
----
+My core stack includes React / React Native / Next.js with TypeScript and Zustand on the frontend, and Node.js (Express, NestJS) on the backend. I have worked with MySQL, PostgreSQL, Vertica, and DynamoDB, and have hands-on experience with AWS (EC2, RDS, DynamoDB, S3) and the Vercel ecosystem. I have also delivered projects using CMS platforms such as WordPress, PayloadCMS, and Strapi. In addition, I have working knowledge of Python (FastAPI), C++ (Qt Creator), PHP, and Java, and experience with Docker, Microsoft Azure, and CI/CD pipelines including CircleCI and Codefresh.
 
-### 🖥 Web Development
+I focus on building reliable systems with a structured engineering approach, strong ownership, and clear alignment with business goals. Experienced across different industries, product types, and delivery environments, I contribute where technical decisions directly impact product outcomes and scalability.
 
-- **Landing Pages** – built for conversion, every detail leads to action
+For collaboration or product discussions, feel free to reach out: dziarmand@gmail.com
 
-
-  <p style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://reactjs.org/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/>
-    </a>
-    <a href="https://nextjs.org/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" height="20"/>
-    </a>
-  </p>
-
-
-- **E-commerce Platforms** – payments, stock, analytics, all integrated
- 
-
-  <p style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://wordpress.org/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" height="40"/>
-    </a>
-    <a href="https://woocommerce.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original-wordmark.svg" height="50"/>
-    </a>
-    <a href="https://www.php.net/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50"/>
-    </a>
-    <a href="https://www.mysql.com/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50"/>
-    </a>
-  </p>
-
----
-
-### 📱 Mobile Development
-
-**Mobile Applications** – fast, engaging apps with intuitive design
- 
-
-  <p style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://reactnative.dev/">
-      <img src="https://reactnative.dev/img/header_logo.svg" height="40"/>
-    </a>
-    <a href="https://flutter.dev/">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40"/>
-    </a>
-    <a href="https://developer.apple.com/swift/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="40"/>
-    </a>
-    <a href="https://developer.android.com/kotlin">
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40"/>
-    </a>
-  </p>
-
----
-
-### 🤖 AI Solutions
-
-We deliver end-to-end AI solutions — from AI chat integrations and NLP automation to custom LLM development — helping businesses automate processes, enhance customer experience, and gain actionable insights from data.
-
-<p style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://chat.openai.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ChatGPT_logo_Square.svg" height="40"/>
-  </a>
-  <a href="https://www.midjourney.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Midjourney_Emblem_%E2%80%94_Discord.svg" height="40"/>
-  </a>
-  <a href="https://gemini.google.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" height="40"/>
-  </a>
-</p>
-
----
-
-### 🎨 Design Services
-From brand identity to promotional visuals — we provide complete design solutions including logo creation, brandbooks, digital business cards, and advertising banners.
-
-<p> 
-  <a href="https://www.figma.com/">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
-  </a>  
-</p>
-
----
-
-## 📌 Case Study: Maksymalnie Sosy
-
-We built a **high-performance WooCommerce store** for a well-known Polish food brand — *Maksymalnie Sosy*, founded by
-influencer Maksym Ziółkowski (600k+ YouTube subscribers).
-
-**Key Features & Integrations:**
-
-- WooCommerce store optimized for performance and scalability
-- Mobile-first responsive design
-- Integrations: 
-  - ING Bank (imoje) payments: BLIK, cards, Apple Pay, Google Pay
-  - InPost Paczkomat map integration
-  - Automated invoicing & export to "ksiegowosc360" service
-- Google PageSpeed 100/100 on all devices
-- Custom admin panel for easy product & order management
-
-🔗 **Live site:** [maksymalnie.com](https://maksymalnie.com)
-
-<p align="center">
-  <img src="/imgs/maksymalnie_sosy.png" alt="Maksymalnie Sosy Screenshot"/>
-</p>
