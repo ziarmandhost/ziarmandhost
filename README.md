@@ -1,7 +1,7 @@
 ![Easy Dev Banner](/imgs/LinkedIn%20Baner.png)
 
 <h1 align="center">Hi 👋, I'm David Ziarmand</h1>
-<h3 align="center">Strong Middle Full-Stack Developer | React | TypeScript | GenAI</h3>
+<h3 align="center">Senior Full-Stack Developer | React | TypeScript | GenAI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziarmandhost&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" />
@@ -17,7 +17,7 @@
 
 ## 🌍 About me / Summary
 
-Strong Middle Full-Stack Developer with 7 years of experience in Web and Mobile development. I have delivered software across multiple business domains, including: e-commerce platforms, network infrastructure and data tools, travel booking systems, AI-driven legal document analysis solutions, and software for banking and financial institutions.
+Senior Full-Stack Developer with 7 years of experience in Web and Mobile development. I have delivered software across multiple business domains, including: e-commerce platforms, network infrastructure and data tools, travel booking systems, AI-driven legal document analysis solutions, and software for banking and financial institutions.
 
 I have worked both independently and within cross-functional teams from mid-sized Scrum teams of 5-7 people to large organizations structured into multiple product squads of 50+ engineers. 
 
