@@ -4,7 +4,7 @@
 <h3 align="center">Senior Full-Stack Developer | React | TypeScript | GenAI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziarmandhost&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=david-ziarmand&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" />
   <a href="https://www.linkedin.com/in/david-ziarmand" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
